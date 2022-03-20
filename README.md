@@ -8,4 +8,4 @@ Features:
 -Taskbar
   -Taskbar Right Click
 -Start Menu
--Light and Dark mode
+-Light and Dark mode 
