@@ -15,7 +15,9 @@ Features:
 -Light and Dark mode 
 
 Apps:
+
 -Settings
 
 Notes:
+
 Settings maximize button won't work as it has a lot of issues.
