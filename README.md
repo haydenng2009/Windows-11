@@ -13,3 +13,6 @@ Features:
 -Start Menu
 
 -Light and Dark mode 
+
+Apps:
+  -Settings
