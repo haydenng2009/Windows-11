@@ -8,11 +8,14 @@ Features:
 
 -Taskbar
 
-  -Taskbar Right Click
+-Taskbar Right Click
   
 -Start Menu
 
 -Light and Dark mode 
 
 Apps:
-  -Settings
+-Settings
+
+Notes:
+Settings maximize button won't work as it has a lot of issues.
