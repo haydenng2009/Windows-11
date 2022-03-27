@@ -18,6 +18,8 @@ Apps:
 
 -Settings
 
-Notes:
+-Context Menu
 
-Settings maximize button won't work as it has a lot of issues.
+Notes:
+Most buttons in context menu won't work
+
