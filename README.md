@@ -24,3 +24,4 @@ Notes:
 
 Most buttons in context menu won't work
 
+Sometimes while dragging the app's window to the top of the screen, the trasnparent rectangle won't show
