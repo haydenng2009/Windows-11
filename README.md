@@ -19,3 +19,7 @@ Apps:
 -Settings
 
 -Context Menu
+
+Credits:
+
+Wallpaper downloaded from https://wallpaperaccess.com/windows-11-4k
