@@ -23,3 +23,9 @@ Apps:
 Credits:
 
 Wallpaper downloaded from https://wallpaperaccess.com/windows-11-4k
+
+Future updates:
+
+>Buttons in Settings app (currently working on)
+
+>apps on start menu
