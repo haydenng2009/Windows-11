@@ -19,7 +19,7 @@ Features:
 >-Settings
 
 >>-Desktop:
->>-Context Menu
+>-Context Menu
 
 >>-Others
 >-Light and Dark mode
