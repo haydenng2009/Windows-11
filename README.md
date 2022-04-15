@@ -20,7 +20,8 @@ Features:
 >
 >>-Settings
 
->-Context Menu
+>-Desktop:
+>>-Context Menu
 
 Credits:
 
