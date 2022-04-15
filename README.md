@@ -8,9 +8,9 @@ Features:
 
 >-Taskbar
 >
->-Taskbar Right Click
->
->-Light and Dark mode 
+>>-Taskbar Right Click
+>>
+>>-Light and Dark mode 
 
 >-Start Menu
 >
@@ -18,8 +18,8 @@ Features:
 
 >Apps:
 >
->-Settings
->
+>>-Settings
+
 >-Context Menu
 
 Credits:
