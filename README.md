@@ -9,8 +9,8 @@ Features:
 >-Taskbar
 >
 >>-Taskbar Right Click
->>
->>-Light and Dark mode 
+
+>-Light and Dark mode 
 
 >-Start Menu
 >
