@@ -26,6 +26,6 @@ Wallpaper downloaded from https://wallpaperaccess.com/windows-11-4k
 
 Future updates:
 
->Buttons in Settings app (currently working on) [/]
+>Buttons in Settings app (currently working on) [done]
 >
->apps on start menu
+>apps on start menu [done]
