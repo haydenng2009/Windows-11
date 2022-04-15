@@ -22,6 +22,7 @@ Features:
 >-Context Menu
 
 >>-Others
+>
 >-Light and Dark mode
 
 Credits:
