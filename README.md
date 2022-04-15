@@ -8,7 +8,7 @@ Features:
 
 >-Taskbar
 >
->>-Taskbar Right Click>
+>>-Taskbar Right Click
 
 >-Start Menu
 >
