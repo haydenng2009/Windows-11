@@ -10,8 +10,6 @@ Features:
 >
 >>-Taskbar Right Click
 
->-Light and Dark mode 
-
 >-Start Menu
 >
 >>apps on start menu
@@ -22,6 +20,9 @@ Features:
 
 >-Desktop:
 >>-Context Menu
+
+>-Others
+>>-Light and Dark mode
 
 Credits:
 
