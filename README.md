@@ -6,26 +6,22 @@ A HTML file to load Windows 11 in your browser.
 
 Features:
 
--Taskbar
+>-Taskbar
+>
+>-Taskbar Right Click
+>
+>-Light and Dark mode 
 
--Taskbar Right Click
-  
--Start Menu
+>-Start Menu
+>
+>>apps on start menu
 
--Light and Dark mode 
-
-Apps:
-
--Settings
-
--Context Menu
+>Apps:
+>
+>-Settings
+>
+>-Context Menu
 
 Credits:
 
 Wallpaper downloaded from https://wallpaperaccess.com/windows-11-4k
-
-Future updates:
-
->Buttons in Settings app (currently working on) [done]
->
->apps on start menu [done]
