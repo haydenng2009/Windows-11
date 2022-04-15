@@ -6,23 +6,23 @@ A HTML file to load Windows 11 in your browser.
 
 Features:
 
->-Taskbar
+>>-Taskbar
 >
->>-Taskbar Right Click
+>-Taskbar Right Click
 
->-Start Menu
+>>-Start Menu
 >
->>apps on start menu
+>apps on start menu
 
->Apps:
+>>Apps:
 >
->>-Settings
+>-Settings
 
->-Desktop:
+>>-Desktop:
 >>-Context Menu
 
->-Others
->>-Light and Dark mode
+>>-Others
+>-Light and Dark mode
 
 Credits:
 
