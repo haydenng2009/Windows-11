@@ -14,6 +14,9 @@ Features:
 >
 >apps on start menu
 
+>>Search
+>nothing yet
+
 >>Apps:
 >
 >-Settings
