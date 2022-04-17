@@ -25,6 +25,8 @@ Features:
 >>-Desktop:
 >
 >-Context Menu
+>
+>-Draggable apps
 
 >>-Others
 >
