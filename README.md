@@ -12,7 +12,7 @@ Features:
 
 >>-Start Menu
 >
->apps on start menu
+>Draggable apps on start menu
 
 >>Search
 >
