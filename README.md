@@ -9,6 +9,8 @@ Features:
 >>-Taskbar
 >
 >-Taskbar Right Click
+>
+>Date and time
 
 >>-Start Menu
 >
@@ -17,6 +19,8 @@ Features:
 >>Search
 >
 >nothing yet
+
+>>Widgets
 
 >>Apps:
 >
