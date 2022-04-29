@@ -21,6 +21,8 @@ Features:
 >nothing yet
 
 >>Widgets
+>
+>Changelog
 
 >>Apps:
 >
