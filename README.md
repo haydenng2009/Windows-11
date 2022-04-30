@@ -38,6 +38,12 @@ Features:
 >
 >-Light and Dark mode
 
+Future Updates:
+
+>>More Apps
+>
+>winver (done, will be in future builds)
+
 Credits:
 
 Wallpaper downloaded from https://wallpaperaccess.com/windows-11-4k
