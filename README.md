@@ -6,31 +6,31 @@ A HTML file to load Windows 11 in your browser.
 
 Features:
 
->>-Taskbar
+>>Taskbar
 >
->Apps
+>-Apps
 >
 >-Taskbar Right Click
 >
->Date and time
+>-Date and time
 
->>-Start Menu
+>>Start Menu
 >
->Draggable apps on start menu
+>-Draggable apps on start menu
 
 >>Search
 >
->nothing yet
+>-nothing yet
 
 >>Widgets
 >
->Changelog
+>-Changelog
 
 >>Apps:
 >
 >-Settings
 
->>-Desktop:
+>>Desktop
 >
 >-Context Menu
 >
@@ -42,10 +42,10 @@ Features:
 
 >>Apps
 >
->Settings
+>-Settings
 >
->Winver
->
+>-Winver
+
 Future Updates:
 
 Credits:
