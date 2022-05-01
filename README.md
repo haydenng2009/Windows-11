@@ -8,6 +8,8 @@ Features:
 
 >>-Taskbar
 >
+>Apps
+>
 >-Taskbar Right Click
 >
 >Date and time
@@ -38,11 +40,13 @@ Features:
 >
 >-Light and Dark mode
 
-Future Updates:
-
->>More Apps
+>>Apps
 >
->winver (done, will be in future builds)
+>Settings
+>
+>Winver
+>
+Future Updates:
 
 Credits:
 
