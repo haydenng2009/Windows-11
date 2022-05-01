@@ -48,6 +48,10 @@ Features:
 
 Future Updates:
 
+>Finished Settings app
+>
+>New apps
+
 Credits:
 
 Wallpaper downloaded from https://wallpaperaccess.com/windows-11-4k
