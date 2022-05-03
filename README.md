@@ -48,7 +48,7 @@ Features:
 
 Future Updates:
 
->Finished Settings app
+>More contents in Settings app (currently working on)
 >
 >New apps
 
