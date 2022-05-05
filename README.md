@@ -48,7 +48,11 @@ Features:
 
 Future Updates:
 
->More contents in Settings app (currently working on)
+>More contents in Settings app (currently working on) (27.5% done)
+>
+>Quick settings (currently working on)
+>
+>Remove unused scripts (done, current version will be released with the other two updates)
 >
 >New apps
 
