@@ -48,7 +48,7 @@ Features:
 
 Future Updates:
 
->More contents in Settings app (currently working on) (27.5% done)
+>More contents in Settings app main page (done, current version will be released with the other two updates)
 >
 >Quick settings (currently working on)
 >
