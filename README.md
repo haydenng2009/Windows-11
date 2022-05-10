@@ -4,8 +4,6 @@ Converted to HTML file using TurboWarp Packager.
 
 A HTML file to load Windows 11 in your browser.
 
-https://haydenng2009.github.io/Windows-11/Windows%2011%20beta%20Build%2022050.1.0.html
-
 Features:
 
 >>Taskbar
