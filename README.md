@@ -1,61 +1,60 @@
-# Windows-11
-Created using Scratch and Turbowarp. 
-Converted to HTML file using TurboWarp Packager.
+# Windows 11
+**Created using Scratch and Turbowarp.**
 
-A HTML file to load Windows 11 in your browser.
+**Converted to HTML file using TurboWarp Packager.**
 
-Features:
+**A HTML file to load Windows 11 in your browser.**
 
->>Taskbar
->
->-Apps
->
->-Taskbar Right Click
->
->-Date and time
+# Features
 
->>Start Menu
->
->-Draggable apps on start menu
+## Taskbar
 
->>Search
->
->-nothing yet
+-**Apps**
 
->>Widgets
->
->-Changelog
+-**Taskbar Right Click**
 
->>Apps:
->
->-Settings
+-**Date and time**
 
->>Desktop
->
->-Context Menu
->
->-Draggable apps
+## Start Menu
 
->>-Others
->
->-Light and Dark mode
+-**Draggable apps on start menu**
 
->>Apps
->
->-Settings
->
->-Winver
+## Search
 
-Future Updates:
+-**nothing yet**
 
->More contents in Settings app main page (done, current version will be released with the other two updates)
->
->Quick settings (currently working on)
->
->Remove unused scripts (done, current version will be released with the other two updates)
->
->New apps
+## Widgets
 
-Credits:
+-**Changelog**
 
-Wallpaper downloaded from https://wallpaperaccess.com/windows-11-4k
+## Desktop
+
+-**Context Menu**
+
+-**Draggable apps**
+
+## Others
+
+-**Light and Dark mode**
+
+## Apps
+
+-**Settings**
+
+-**Winver**
+
+## Experimental Apps
+
+-**Calculator**
+
+## Future Updates
+
+**-More contents in Settings app subpages**
+
+**-Quick settings (currently working on)**
+
+**-New apps**
+
+## **Credits**
+
+**Wallpaper downloaded from https://wallpaperaccess.com/windows-11-4k**
