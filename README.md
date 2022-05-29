@@ -9,51 +9,51 @@
 
 ## Taskbar
 
--**Apps**
+- **Apps**
 
--**Taskbar Right Click**
+- **Taskbar Right Click**
 
--**Date and time**
+- **Date and time**
 
 ## Start Menu
 
--**Draggable apps on start menu**
+- **Draggable apps on start menu**
 
 ## Search
 
--**nothing yet**
+- **nothing yet**
 
 ## Widgets
 
--**Changelog**
+- **Changelog**
 
 ## Desktop
 
--**Context Menu**
+- **Context Menu**
 
--**Draggable apps**
+- **Draggable apps**
 
 ## Others
 
--**Light and Dark mode**
+- **Light and Dark mode**
 
 ## Apps
 
--**Settings**
+- **Settings**
 
--**Winver**
+- **Winver**
 
 ## Experimental Apps
 
--**Calculator**
+- **Calculator**
 
 ## Future Updates
 
-**-More contents in Settings app subpages**
+- **More contents in Settings app subpages**
 
-**-Quick settings (currently working on)**
+- **Quick settings (currently working on)**
 
-**-New apps**
+- **New apps**
 
 ## **Credits**
 
